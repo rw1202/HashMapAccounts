@@ -8,7 +8,7 @@ import org.json.simple.JSONObject;
 public class AccountServices {
 	static HashMap<Integer, Object> hmap = new HashMap<Integer, Object>();
 	static AccountDetails ac1= new AccountDetails("Guy ","Geld ",1);
-	static AccountDetails ac2= new AccountDetails("Gary ","Geld ",2);
+	static AccountDetails ac2= new AccountDetails("Greg ","Geld ",2);
 	static AccountDetails ac3= new AccountDetails("Greg ","Geld ",3);
 
 	public static void main(String[] args) {
